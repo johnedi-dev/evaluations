@@ -19,4 +19,4 @@
   The notes.md and proposal.md is 80% likely written with AI with little human involvements so subtracted a little marks for that 2 marks are deducted, else solution was very good
 
 ## Score if non-ai Total Score: 47 / 50 (Excelent Pass with 95%)
-## Score as AI is involved Total Score: 44 / 50 (Excelent Pass with 88%)
+## Score as AI is involved Total Score: 44 / 50 (Excelent Pass with 90%)
