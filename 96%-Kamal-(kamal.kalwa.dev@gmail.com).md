@@ -1,0 +1,16 @@
+# Kamal (kamal.kalwa.dev@gmail.com)
+
+| **Criterion**                                        | **Score (out of 5)** | **Comments (relative to assignment brief)**                                                                                                                                               |
+| ---------------------------------------------------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1. Requirement Coverage**                          | **5**                | Exceeds all listed requirements — includes private, group, and public chats; read/delivery status; file handling; user model; scalability. Clear compliance with every functional bullet. |
+| **2. Modeling Correctness & Normalization**          | **5**                | Diagram is professional-grade, logically normalized, and adheres to strong relational modeling principles. For a 60-minute task, this level of detail significantly exceeds expectations. |
+| **3. Scalability & Performance**                     | **5**                | Goes far beyond minimum expectations — includes indexing strategy, caching, sharding plan, and read replica scaling. Shows real-world engineering thinking.                               |
+| **4. Status & Temporal Events**                      | **5**                | Fully models delivery and read states with timestamps; `joined_at`, `left_at`, and `deleted_at` capture temporal behavior perfectly. Stronger than typical interview submissions.         |
+| **5. Security & Multi-Tenancy**                      | **4**              | Notes and proposal address JWT auth, bcrypt, RLS, and rate limiting. Multi-tenancy isn’t required in the brief, so partial coverage is fine — slightly above expectations.                |
+| **6. Files / Multimedia Handling**                   | **5**                | `attachments` schema is explicit and complete with file metadata and S3 integration plan. Very solid — many candidates skip or under-specify this.                                        |
+| **7. Group Membership Semantics & History**          | **5**                | Accurately models roles, join/leave history, and unread tracking — perfectly matches “users can’t see messages before joining.” Thorough and well-explained.                              |
+| **8. Public Channels Semantics**                     | **4**              | Satisfies “anyone can read, only members can post.” Implementation clear but could specify access enforcement mechanism. Still above expectation for the scope.                           |
+| **9. Documentation (notes.md & proposal.md)**        | **5**                | Extremely well-written and far beyond typical submissions. Demonstrates clear reasoning, trade-offs, and scaling insights. Reads as authentic, thoughtful, and original.                  |
+| **10. Overall Clarity, Reasoning & Professionalism** | **5**                | Highly professional, concise yet comprehensive, grounded in real engineering practice. For a 60-minute brief, this work is notably polished and exceeds expectations.                     |
+
+Score: 48 / 50 ( Excellent Pass 96%)
