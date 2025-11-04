@@ -17,4 +17,4 @@
 
 ## This is an excellent and production-minded design. The schema is minimal yet extensible, the hybrid database decision is well justified, and operational reliability is considered deeply. Minor gaps exist in security, public channel design, and extended messaging features, but overall reasoning and execution are strong.
 
-## **Final Score: 40 / 50 (Strong Pass – 80%)**
+## **Final Score: 40 / 50 (Pass – 80%)**
