@@ -13,7 +13,7 @@
 | **9. Documentation (notes.md & proposal.md)**        | **2**            | Well structured but extremely AI-sounding. Too formal, too generic, not enough personal reasoning. Many paragraphs read like standard ChatGPT boilerplate. Deduction applied as required.                                                             |
 | **10. Overall Clarity, Reasoning & Professionalism** | **4**            | Clean, logical, structured. Good technical intuition. But again, the tone lacks personal voice and originality.                                                                                                                                       |
 
-### Score 35 / 50 (70% - Pass)
+### Score 35 / 50 (70% - Fail)
 
 ### Weaknesses
 
@@ -26,4 +26,4 @@
 
 AI-Generated Assessment
 
-Yes, several sections — especially in proposal.md — strongly resemble AI-generated style.
+Yes, several sections especially in proposal.md strongly resemble AI-generated style.
