@@ -17,7 +17,7 @@ Kunal Chhabra (kunalchhabraiitb@gmail.com)
 
 ---
 
-## Total Score: 46 0 (92% - Pass)
+## Total Score: 46 / 50 (92% - Pass)
 ---
 
 ## Remarks
