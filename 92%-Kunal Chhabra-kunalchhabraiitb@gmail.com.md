@@ -1,4 +1,4 @@
-Kunal Chhabra (kunalchhabraiitb@gmail.com)
+## Kunal Chhabra (kunalchhabraiitb@gmail.com)
 
 ### Evaluation Table
 
