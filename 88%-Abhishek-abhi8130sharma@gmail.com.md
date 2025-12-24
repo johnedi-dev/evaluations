@@ -15,3 +15,22 @@
 
 
 ### Score: 44 / 50 (88% - Pass)
+
+### Remarks
+
+## Technical Strengths
+  
+  - Correct and production-ready relational modeling.
+  - Excellent treatment of message status fan-out and temporal access control.
+  - Realistic scalability discussion grounded in actual messaging workloads.
+
+## Technical Weaknesses
+  
+  - Some semantics (conversation type, public visibility) could be more strongly enforced at the schema level.
+  - Proposal includes generic infrastructure patterns with limited schema-specific tailoring.
+
+## AI-Generated Assessment
+
+  - notes.md appears largely original and well-reasoned.
+  - proposal.md shows partial boilerplate characteristics but does not undermine overall understanding.
+  - No signs of blind copy-paste; candidate clearly understands the system they designed.
