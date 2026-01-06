@@ -36,3 +36,9 @@
   - Overall, this does not read as blind AI generation; it reflects a candidate with strong system design experience, possibly assisted but clearly understood.
 
   
+## Strengths
+
+  - Excellent relational modeling with correct normalization and realistic production considerations.
+  - Strong handling of message status fan-out, membership history, and temporal visibility rules.
+  SQL vs NoSQL decision is well-argued and grounded in actual query patterns.
+  Scalability discussion is concrete (indexes, sharding keys, replicas), not superficial.
