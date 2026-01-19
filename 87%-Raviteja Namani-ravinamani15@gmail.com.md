@@ -33,3 +33,6 @@
   - Public channel behavior is underspecified at the data level
   - Multi-tenancy and indexing strategies could be more explicit
 
+### AI-Usage Analysis
+ The documentation is clear and well written, but some parts use general technical language that is often seen in AI-assisted writing.
+
