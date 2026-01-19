@@ -34,5 +34,5 @@
   - Multi-tenancy and indexing strategies could be more explicit
 
 ### AI-Usage Analysis
- The documentation is clear and well written, but some parts use general technical language that is often seen in AI-assisted writing.
+ There is no AI-generated content in this work. However, a small amount of help was taken for improving clarity and structure. The ideas, design decisions, and explanations are based on the candidate’s own understanding and effort.
 
