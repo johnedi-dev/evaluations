@@ -16,7 +16,7 @@
 | **10. Overall Clarity, Reasoning & Professionalism** |      **4.5**     | Submission is coherent, technically sound, and professionally written. Reasoning is logical and consistent across schema and architecture.                                                                                                      |
 
 
-## Score: 43.5 / 50 (87%)
+## Score: 44 / 50 (87%)
 
 ## Remarks
 
