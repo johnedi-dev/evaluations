@@ -15,6 +15,8 @@
 | Overall System Design Thinking        |         5        | Demonstrates strong understanding of relational modeling, scaling challenges, and hybrid architectures. Good awareness of production constraints.                                                        |
 
 
+## Score: 46 / 50 (92%)
+
 ## Remarks
 
 ### Strengths
