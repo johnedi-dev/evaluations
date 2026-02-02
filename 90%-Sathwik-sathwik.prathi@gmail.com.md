@@ -36,7 +36,7 @@
   - Some extreme-scale public channel scenarios not fully explored.
   - Operational concerns (retention, compliance, disaster recovery) are missing.
 
-### AI-Generated Likelihood
+### AI-Generated Assessment
 
   - Likely AI-assisted, but shows good understanding and customization.
   - Not purely generic; contains domain-specific reasoning.
