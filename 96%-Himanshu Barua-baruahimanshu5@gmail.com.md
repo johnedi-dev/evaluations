@@ -36,5 +36,5 @@
 
 ### AI-Generated Assessment:
 The documentation is structured and polished, but unlike generic AI answers.
-This strongly suggests original reasoning, possibly AI-assisted for wording but not AI-generated in substance. No significant deduction applied.
+This strongly suggests original reasoning, possibly AI-assisted for wording but not AI-generated in substance.
 
